@@ -4,4 +4,5 @@ logs/*
 !logs/.gitkeep
 www/*
 !www/.gitkeep
-plugins/
+plugins/*
+!plugins/.gitkeep

@@ -6,3 +6,4 @@ www/*
 !www/.gitkeep
 plugins/*
 !plugins/.gitkeep
+!plugins/index.php

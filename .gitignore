@@ -8,5 +8,3 @@ www/*
 plugins/*
 !plugins/.gitkeep
 !plugins/index.php
-themes/*
-!themes/.gitkeep

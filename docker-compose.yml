@@ -33,6 +33,7 @@ services:
     volumes:
       - ./www:/var/www/html:rw
       - ./plugins:/var/www/html/wp-content/plugins:rw
+      - ./themes:/var/www/html/wp-content/themes:rw
       - ./data/dump:/var/www/data:rw
 
   phpmyadmin:

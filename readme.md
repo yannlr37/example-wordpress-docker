@@ -16,7 +16,7 @@ Go to **localhost:8082** (depending on ports you've set) and enjoy :wink:
 
 ## Website
 
-Just go to **localhost:8002** (depding on ports you've set) and follow the installation instructions.
+Just go to **localhost:80** (depding on ports you've set) and follow the installation instructions.
 
 Then, enjoy :wink:
 

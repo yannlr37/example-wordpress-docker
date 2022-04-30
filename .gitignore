@@ -9,3 +9,4 @@ www/*
 plugins/*
 !plugins/.gitkeep
 !plugins/index.php
+package.json

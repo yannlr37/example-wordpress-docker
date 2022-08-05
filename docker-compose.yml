@@ -58,6 +58,14 @@ services:
       - db
     networks:
       custom_network: { }
+  
+  mailhog:
+    image: mailhog/mailhog
+    ports:
+      - 1025:1025 # smtp server
+      - 8025:8025 # web ui
+    networks:
+      custom_network: { }
 
 networks:
   custom_network:
